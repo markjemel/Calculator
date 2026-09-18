@@ -27,7 +27,7 @@ body {
 .scoreboard {
     width: 575px;
     height: 385px;
-    background: black;
+    background: #191D24;
     display: flex;
     justify-content: space-around;
     align-items: center;
